@@ -198,6 +198,7 @@ background: linear-gradient(90deg, rgba(0,0,0,0.9500175070028011) 0%, rgba(0,0,0
 
 .button{
   position: relative;
+  text-decoration: none;
 }
 
 
