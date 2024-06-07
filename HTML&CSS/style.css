@@ -235,15 +235,15 @@ background: linear-gradient(90deg, rgba(0,0,0,0.9500175070028011) 0%, rgba(0,0,0
     margin-bottom: 30%;
 
     &:nth-of-type(1) {
-      background: url(/IMAGES/pixLogo.png)
+      background: url(IMAGES/pixLogo.png)
       no-repeat 50% / cover;
     }
     &:nth-of-type(2) {
-      background: url(/IMAGES/AttestationsLangues.png)
+      background: url(IMAGES/AttestationsLangues.png)
         no-repeat 50% / cover;
     }
     &:nth-of-type(3) {
-      background: url(/IMAGES/RelevedeNotes.png)
+      background: url(IMAGES/RelevedeNotes.png)
         no-repeat 50% / cover;
     }
   
