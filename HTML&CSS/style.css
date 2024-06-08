@@ -244,11 +244,11 @@ a{
       no-repeat 50% / cover;
     }
     &:nth-of-type(2) {
-      background: url(../IMAGES/AttestationsLangues.png)
+      background: url(../IMAGES/languesvivantes.png)
         no-repeat 50% / cover;
     }
     &:nth-of-type(3) {
-      background: url(../IMAGES/RelevedeNotes.png)
+      background: url(../IMAGES/Bac.png)
         no-repeat 50% / cover;
     }
   
