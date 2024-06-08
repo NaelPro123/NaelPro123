@@ -144,7 +144,6 @@ main h2 {
   background: rgb(0,0,0);
   background: linear-gradient(90deg, rgba(0,0,0,0.9500175070028011) 0%, rgba(0,0,0,0.8911939775910365) 100%);
   padding : 20px;
-  box-shadow: 0 0 10px rgba(128, 0, 128, 0.5);
   opacity: 1;
 }
 
